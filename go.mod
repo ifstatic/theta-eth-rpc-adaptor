@@ -56,9 +56,9 @@ require (
 	github.com/wedeploy/gosocketio v0.0.7-beta
 	github.com/ybbus/jsonrpc v1.1.1
 	go.opencensus.io v0.22.4
-	golang.org/x/crypto v0.0.0-20200820211705-5c72a883971a
-	golang.org/x/net v0.0.0-20210220033124-5f55cee0dc0d
-	golang.org/x/sys v0.0.0-20210124154548-22da62e12c0c
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/net v0.7.0
+	golang.org/x/sys v0.5.0
 	gopkg.in/karalabe/cookiejar.v2 v2.0.0-20150724131613-8dcd6a7f4951
 	gopkg.in/mgo.v2 v2.0.0-20180705113604-9856a29383ce
 )
